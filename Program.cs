@@ -49,9 +49,9 @@ namespace FriendlyBank
             {
                 Console.WriteLine("Enter name of customer:");
                 Bank[i].Name = Console.ReadLine();
-                Console.WriteLine("Enter account balance");
-                do
+                while (Bank[i].Balance <= 0)
                 {
+                    Console.WriteLine("Enter account balance:");
                     try
                     {
                         Bank[i].Balance = int.Parse(Console.ReadLine());
@@ -59,15 +59,15 @@ namespace FriendlyBank
                         {
                             throw new Exception("Balance cannot be under 0");
                         }
-                        break;
                     }
                     catch (Exception e)
                     {
                         Console.WriteLine(e.Message);
                     }
-                } while (Bank[i].Balance !> 0);
+                }
             }
-            Console.WriteLine(Bank);
+            Console.WriteLine("Press any key to continue.");
+            Console.ReadLine();
         }
     }
 }
