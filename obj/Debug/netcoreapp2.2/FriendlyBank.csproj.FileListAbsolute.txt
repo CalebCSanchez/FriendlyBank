@@ -1,0 +1,11 @@
+c:\Users\caleb.sanchez\Programs\C#\Learning\FriendlyBank\obj\Debug\netcoreapp2.2\FriendlyBank.csprojAssemblyReference.cache
+c:\Users\caleb.sanchez\Programs\C#\Learning\FriendlyBank\obj\Debug\netcoreapp2.2\FriendlyBank.csproj.CoreCompileInputs.cache
+c:\Users\caleb.sanchez\Programs\C#\Learning\FriendlyBank\obj\Debug\netcoreapp2.2\FriendlyBank.AssemblyInfoInputs.cache
+c:\Users\caleb.sanchez\Programs\C#\Learning\FriendlyBank\obj\Debug\netcoreapp2.2\FriendlyBank.AssemblyInfo.cs
+C:\Users\caleb.sanchez\Programs\C#\Learning\FriendlyBank\bin\Debug\netcoreapp2.2\FriendlyBank.deps.json
+C:\Users\caleb.sanchez\Programs\C#\Learning\FriendlyBank\bin\Debug\netcoreapp2.2\FriendlyBank.runtimeconfig.json
+C:\Users\caleb.sanchez\Programs\C#\Learning\FriendlyBank\bin\Debug\netcoreapp2.2\FriendlyBank.runtimeconfig.dev.json
+c:\Users\caleb.sanchez\Programs\C#\Learning\FriendlyBank\bin\Debug\netcoreapp2.2\FriendlyBank.dll
+c:\Users\caleb.sanchez\Programs\C#\Learning\FriendlyBank\bin\Debug\netcoreapp2.2\FriendlyBank.pdb
+c:\Users\caleb.sanchez\Programs\C#\Learning\FriendlyBank\obj\Debug\netcoreapp2.2\FriendlyBank.dll
+c:\Users\caleb.sanchez\Programs\C#\Learning\FriendlyBank\obj\Debug\netcoreapp2.2\FriendlyBank.pdb
